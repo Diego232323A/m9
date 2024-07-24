@@ -1,0 +1,17 @@
+{
+    "name": "conexion_mongo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "checkconnection.js",
+    "scripts": {
+      "start": "node checkconnection.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "mongodb": "^4.1.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
